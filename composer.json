@@ -1,0 +1,15 @@
+{
+  "name": "mitchvdl/testmodule",
+  "type": "magento-module",
+  "license":"OSL-3.0",
+  "description":"Lorem ipsum si dor amet",
+  "authors":[
+    {
+      "name": "Mitch Vanderlinden",
+      "email": "mitchvdl@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.0"
+  }
+}
